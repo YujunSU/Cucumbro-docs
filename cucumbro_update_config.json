@@ -2,7 +2,7 @@
   "ios": {
     "enabled": true,
     "minimumSupportedVersion": "1.0.3",
-    "latestVersion": "1.0.4",
+    "latestVersion": "1.0.3",
     "appStoreUrl": "https://apps.apple.com/us/app/hardcumber-kegel-men-s-health/id6766494439",
     "forceTitle": "Update required",
     "forceMessage": "This version is no longer supported. Please update to continue.",
